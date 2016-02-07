@@ -24,9 +24,22 @@ a.link:active {
 	color: red;
 }
 
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
 body.index {
 	font-size: 30px;
-	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
 	text-align: center;
+}
+
+body.bio {
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 16px;
+}
+
+p.contactinfo {
+	font-size: 20px;
 }
