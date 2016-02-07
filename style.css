@@ -1,4 +1,32 @@
-body {
-	font-size: 20px;
+h1 {
+	font-size: 40px;
 	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+img.standalone {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+a.link:link, a.link:visited {
+	text-decoration: none;
+	color: black;
+}
+
+a.link:hover {
+	text-decoration: underline;
+}
+
+a.link:active {
+	color: red;
+}
+
+body.index {
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	text-align: center;
 }
