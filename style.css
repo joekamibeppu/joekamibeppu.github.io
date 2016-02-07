@@ -38,6 +38,8 @@ a.link:active {
 }
 
 body {
+	margin-left: 15%;
+	margin-right:15%;
 	font-size: 16px;
 	line-height: 1.25;
 	font-family: 'Montserrat', sans-serif;
@@ -55,8 +57,8 @@ body.index {
 }
 
 body.bio {
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 25%;
+	margin-right: 25%;
 	font-size: 16px;
 }
 
