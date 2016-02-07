@@ -4,6 +4,19 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+	font-size: 28px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
 img.standalone {
 	display: block;
 	margin-left: auto;
@@ -25,7 +38,14 @@ a.link:active {
 }
 
 body {
+	font-size: 16px;
+	line-height: 1.25;
 	font-family: 'Montserrat', sans-serif;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 body.index {
@@ -35,11 +55,18 @@ body.index {
 }
 
 body.bio {
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 10%;
+	margin-right: 10%;
 	font-size: 16px;
 }
 
+
 p.contactinfo {
 	font-size: 20px;
+}
+
+li.bold {
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
 }
