@@ -1,74 +1,79 @@
+/*	
+	style.css
+
+	created by: Joe Kamibeppu
+	created on: Feb 4, 2016
+*/
+
+
 h1 {
-	font-size: 40px;
-	font-family: 'Montserrat', sans-serif;
-	text-align: center;
+		font-size: 40px;
+		font-family: "Helvetica", sans-serif;
+		text-align: center;
 }
 
 h2 {
-	font-size: 28px;
-	font-family: 'Montserrat', sans-serif;
+		font-size: 28px;
+		font-family: "Helvetica", sans-serif;
 }
 
 h3 {
-	font-size: 20px;
-	font-weight: bold;
-	font-family: 'Montserrat', sans-serif;
-	margin-top: 0;
-	margin-bottom: 0;
+		font-size: 20px;
+		font-weight: bold;
+		font-family: "Helvetica", sans-serif;
+		margin-top: 0;
+		margin-bottom: 0;
 }
 
-img.standalone {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+img.headshot {
+		display: block;
+		margin: 0 auto;
 }
-
 
 a.link:link, a.link:visited {
-	text-decoration: none;
-	color: black;
+		text-decoration: none;
+		color: black;
 }
 
 a.link:hover {
-	text-decoration: underline;
+		text-decoration: underline;
 }
 
 a.link:active {
-	color: red;
+		color: red;
 }
 
 body {
-	margin-left: 15%;
-	margin-right:15%;
-	font-size: 16px;
-	line-height: 1.25;
-	font-family: 'Montserrat', sans-serif;
+		margin-left: 15%;
+		margin-right:15%;
+		font-size: 16px;
+		line-height: 1.25;
+		font-family: "Helvetica", sans-serif;
 }
 
 p {
-	margin-top: 0;
-	margin-bottom: 0;
+		margin-top: 0;
+		margin-bottom: 0;
 }
 
-body.index {
-	font-size: 30px;
-	font-weight: bold;
-	text-align: center;
+.index {
+		font-size: 30px;
+		font-weight: bold;
+		text-align: center;
 }
 
-body.bio {
-	margin-left: 25%;
-	margin-right: 25%;
-	font-size: 16px;
+.bio {
+		margin-left: 25%;
+		margin-right: 25%;
+		font-size: 16px;
 }
 
-
-p.contactinfo {
-	font-size: 20px;
+.contactinfo {
+		font-size: 20px;
 }
 
-li.bold {
-	font-weight: bold;
-	margin-top: 0;
-	margin-bottom: 0;
+.bold {
+		font-weight: bold;
+		margin-top: 0;
+		margin-bottom: 0;
 }
