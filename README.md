@@ -1,1 +1,1 @@
-My homepage can be found at: http://joekamibeppu.github.io/
+My homepage can be found at: https://joekamibeppu.com
