@@ -8,19 +8,19 @@
 
 h1 {
 		font-size: 30px;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Bookman', sans-serif;
 		text-align: center;
 }
 
 h2 {
 		font-size: 28px;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Bookman', sans-serif;
 }
 
 h3 {
 		font-size: 24px;
 		font-weight: bold;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Bookman', sans-serif;
 		margin-top: 0;
 		margin-bottom: 0;
 }
@@ -48,7 +48,7 @@ body {
 		margin-right:15%;
 		font-size: 16px;
 		line-height: 1.25;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Bookman', sans-serif;
 }
 
 p {
